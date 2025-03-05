@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+.slider-container {
+    width: 50%;
+    margin: auto;
+    position: relative;
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.controls {
+    margin-top: 10px;
+}
+button {
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
